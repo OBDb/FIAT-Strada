@@ -1,0 +1,12 @@
+references:
+  - "https://en.wikipedia.org/wiki/Fiat_Strada"
+
+generations:
+  - name: "First Generation"
+    start_year: 1996
+    end_year: 2020
+    description: "A pickup built in Brazil on the Palio, with Fire and E.torQ engines."
+  - name: "Second Generation"
+    start_year: 2020
+    end_year: null
+    description: "On the Argo's platform with Firefly and turbo engines."
